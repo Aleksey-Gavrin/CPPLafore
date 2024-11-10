@@ -35,4 +35,5 @@ int main() {
             << "That's all I want" << endl
             << "                        " << "© " << "\"Offspring\"" << endl << endl;
 
+        return 0;
 }
